@@ -81,9 +81,6 @@ GROQ_API_KEY=your_api_key_here
 <img width="1905" height="832" alt="Voyara Screenshot 7" src="https://github.com/user-attachments/assets/f44709da-3677-4f6e-8a1f-0549113bf44f" />
 
 <img width="1915" height="822" alt="Voyara Screenshot 8" src="https://github.com/user-attachments/assets/1f745c5e-1ace-423b-9f75-061ab538335e" />
-
-<img width="1912" height="838" alt="Voyara Screenshot 9" src="https://github.com/user-attachments/assets/fb898dbd-5e5e-4a58-b1ce-00dd2dba658f" />
-
 ---
 
 ## ⭐ Key Highlights
